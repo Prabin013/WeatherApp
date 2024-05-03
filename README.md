@@ -44,6 +44,3 @@ This Weather App allows users to search for the current weather and a 24-hour fo
 
 - **[Prabin Adhikari]:** [adhikariprabin001@gmailcom /Prabin013]
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
